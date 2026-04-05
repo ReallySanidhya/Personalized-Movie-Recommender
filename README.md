@@ -129,7 +129,8 @@ Open the app
 - Movie posters (TMDB API)
 - Deep learning models (Neural CF, transformers)
   
-Why I think Project Stands Out: 
+**Why I think Project is special:**
+
 It combines classic ML + modern AI, handles cold-start problem, includes explainable AI, full end-to-end system (backend + frontend) and Real-world architecture
 
 Need any help while setting it up, you can reach out to me
