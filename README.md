@@ -72,12 +72,13 @@ Popularity = global trend fallback
 
 
 **How to use it**
+
 Setup Backend
->> cd backend
->> python -m venv .venv
->> source .venv/bin/activate   # Mac/Linux
->> # .venv\Scripts\activate    # Windows
->>pip install -r requirements.txt
+
+- cd backend
+- python -m venv .venv
+- source .venv/bin/activate   # Mac/Linux
+- pip install -r requirements.txt
 
 Download Dataset
 
